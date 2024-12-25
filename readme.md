@@ -30,9 +30,6 @@
   <a href="mailto:dandi12cahyaman12@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
----
-
----
 
 ## 🌱 Currently Learning
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
